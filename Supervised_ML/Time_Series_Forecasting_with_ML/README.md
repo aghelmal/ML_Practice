@@ -1,8 +1,20 @@
 # ML_Practice:
 ## Supervised-Machine-Learning
-### Image Classification : Car-Brand-Logos
-I use here a deep neural network and a CNN architecture for an image classification task.
+### Time Series Forecasting with Machine Learning
 
-Data set has been originally harvested from search engines and I downloaded it from Kaggle Website:
-https://www.kaggle.com/datasets/volkandl/car-brand-logos?resource=download
-Data set contains 8 logo brands including; toyota, hyundai, lexus, skoda, volkswagen, mazda, mercedes, opel. It's divided as train and test images. In training set, there are over 300 images per logo. In test set, there are 63 photos for each.
+I have replicated a Kaggle notebook here to practice a Time Series Forecasting task. You can find the original notebooks and the associated data in these links:
+https://www.kaggle.com/code/robikscube/time-series-forecasting-with-machine-learning-yt
+https://www.kaggle.com/code/robikscube/pt2-time-series-forecasting-with-xgboost/notebook
+The original notebooks are accompanied by Youtube tutorials:
+https://www.youtube.com/watch?v=vV12dGe_Fho
+https://www.youtube.com/watch?v=z3ZnOW-S550
+
+
+About this Dataset
+PJM Hourly Energy Consumption Data
+PJM Interconnection LLC (PJM) is a regional transmission organization (RTO) in the United States. It is part of the Eastern Interconnection grid operating an electric transmission system serving all or parts of Delaware, Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia, and the District of Columbia.
+
+The hourly power consumption data comes from PJM's website and are in megawatts (MW).
+
+The regions have changed over the years so data may only appear for certain dates per region.
+
